@@ -68,8 +68,7 @@ hr {
   justify-content: flex-start;
   align-items: flex-start;
 }
-.card-1 {
-}
+
 .card-1,
 .card-2 {
   display: flex;
@@ -115,8 +114,7 @@ hr {
   font-size: 14px;
   margin-bottom: 0.5rem;
 }
-.radio:focus {
-}
+
 .submit {
   background: #3f67e9;
   color: #fff;
